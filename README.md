@@ -1,2 +1,3 @@
-# repositorio
-Contém softwares e manuais
+# Repositório
+
+Este repositório contém softwares e manuais.
